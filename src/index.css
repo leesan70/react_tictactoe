@@ -22,7 +22,6 @@ ol, ul {
   border: 1px solid #999;
   float: left;
   font-size: 24px;
-  font-weight: bold;
   line-height: 34px;
   height: 34px;
   margin-right: -1px;
@@ -30,6 +29,14 @@ ol, ul {
   padding: 0;
   text-align: center;
   width: 34px;
+}
+
+.square.current{
+  font-weight: bold;
+}
+
+.square.win{
+  background: rgb(181, 148, 172);
 }
 
 .square:focus {
