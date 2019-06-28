@@ -10,3 +10,11 @@ Official React tutorial (https://reactjs.org/tutorial/tutorial.html) was followe
 6. When no one wins, display a message about the result being a draw.
 
 were implemented.
+
+Original
+
+![Original](https://user-images.githubusercontent.com/20693595/60320192-eca5df00-99b3-11e9-9e5f-76859605a72e.png)
+
+With additional features
+
+![Additional](https://user-images.githubusercontent.com/20693595/60320302-3abae280-99b4-11e9-8be9-1969a94c83e4.png)
